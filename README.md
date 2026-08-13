@@ -16,6 +16,9 @@ Customer churn is one of the most critical metrics for SaaS companies. While qua
 
 This project processes **95,090 customer records** and utilizes zero-shot NLP models to analyze **~3,500 unstructured exit interview responses**. The aggregated data is transformed into an interactive Power BI dashboard and an executive strategy presentation.
 
+<img width="1378" height="793" alt="dashboard_overview" src="https://github.com/user-attachments/assets/b5b24776-6973-43b8-b901-b1b31e4c2d1f" />
+
+
 ---
 
 ## 🛠️ Tech Stack & Skills
